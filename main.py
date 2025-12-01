@@ -8,4 +8,5 @@ def add_lists(a: list,b: list) -> list:
     Returns:
         list: _description_
     """
-    return a+b
+    c=a+b
+    return c
